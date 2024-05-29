@@ -7,7 +7,7 @@ Welcome to Python Blackjack! This is a simple command-line Blackjack game writte
 ## How to Play
 
 1. **Get Started**: Clone the repository to your local machine.
-2. **Run the Game**: Open your terminal, navigate to the project directory, and run the `python blackjack.py` command to start the game.
+2. **Run the Game**: Open your terminal, navigate to the game directory, and run the `python game_test2.py` command to start the game.
 3. **Gameplay**: Follow the prompts to play Blackjack. You can hit, stand, or quit based on your hand and the dealer's hand.
 4. **Winning**: Try to beat the dealer by getting as close to 21 as possible without going over. If your hand beats the dealer's hand without busting, you win!
 
